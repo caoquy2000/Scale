@@ -284,4 +284,7 @@ body{
         padding-right: 0 !important;
         padding-left: 0 !important;
     }
+    .text__reponsive{
+        font-size: 3rem;
+    }
 }
