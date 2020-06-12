@@ -287,4 +287,16 @@ body{
     .text__reponsive{
         font-size: 3rem;
     }
+    .svg-inline--fa.fa-w-16 {
+        width: 3rem;
+    }
+    .svg-inline--fa.fa-w-18 {
+        width: 3rem;
+    }
+    .svg-inline--fa.fa-w-10 {
+        width: 3rem;
+    }
+    .navbar-toggler{
+        padding: 1rem 2rem;
+    }
 }
